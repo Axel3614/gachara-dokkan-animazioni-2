@@ -1,0 +1,6802 @@
+{
+ "character/card_bg/1000020/card_1000020.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1000060/card_1000060.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1000100/card_1000100.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1000140/card_1000140.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1000180/card_1000180.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1000220/card_1000220.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1000260/card_1000260.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1000780/card_1000780.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1000820/card_1000820.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1000860/card_1000860.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1000900/card_1000900.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1000940/card_1000940.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1000980/card_1000980.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1001020/card_1001020.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1001060/card_1001060.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1001100/card_1001100.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1001380/card_1001380.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1001420/card_1001420.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1001460/card_1001460.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1001500/card_1001500.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1001580/card_1001580.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1001620/card_1001620.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1001700/card_1001700.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1001740/card_1001740.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1001820/card_1001820.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1001860/card_1001860.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1001940/card_1001940.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1001980/card_1001980.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1002020/card_1002020.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1002100/card_1002100.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1002140/card_1002140.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1002220/card_1002220.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1002260/card_1002260.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1002340/card_1002340.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1002420/card_1002420.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1002460/card_1002460.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1002580/card_1002580.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1002620/card_1002620.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1002660/card_1002660.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1002700/card_1002700.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1002820/card_1002820.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1002860/card_1002860.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1002900/card_1002900.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1002940/card_1002940.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1002980/card_1002980.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1003020/card_1003020.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1003140/card_1003140.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1003180/card_1003180.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1003220/card_1003220.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1003260/card_1003260.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1003300/card_1003300.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1003340/card_1003340.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1003380/card_1003380.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1003460/card_1003460.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1003500/card_1003500.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1003540/card_1003540.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1003580/card_1003580.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1003660/card_1003660.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1003700/card_1003700.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1003780/card_1003780.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1003820/card_1003820.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1003900/card_1003900.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1003940/card_1003940.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1003980/card_1003980.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1004020/card_1004020.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1004100/card_1004100.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1004180/card_1004180.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1004220/card_1004220.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1004260/card_1004260.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1004300/card_1004300.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1004340/card_1004340.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1004380/card_1004380.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1004420/card_1004420.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1004460/card_1004460.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1004540/card_1004540.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1004620/card_1004620.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1004700/card_1004700.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1004740/card_1004740.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1004820/card_1004820.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1004900/card_1004900.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1004940/card_1004940.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1004980/card_1004980.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1005020/card_1005020.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1005100/card_1005100.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1005140/card_1005140.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1005180/card_1005180.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1005220/card_1005220.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1005260/card_1005260.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1005300/card_1005300.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1005340/card_1005340.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1005420/card_1005420.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1005460/card_1005460.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1005500/card_1005500.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1005540/card_1005540.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1005580/card_1005580.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1005620/card_1005620.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1005660/card_1005660.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1005700/card_1005700.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1005740/card_1005740.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1005780/card_1005780.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1005940/card_1005940.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1006020/card_1006020.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1006300/card_1006300.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1006500/card_1006500.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1006580/card_1006580.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1006620/card_1006620.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1006660/card_1006660.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1006700/card_1006700.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1006740/card_1006740.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1006780/card_1006780.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1007020/card_1007020.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1007060/card_1007060.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1007100/card_1007100.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1007140/card_1007140.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1007180/card_1007180.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1007300/card_1007300.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1007340/card_1007340.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1007380/card_1007380.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1007420/card_1007420.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1007460/card_1007460.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1007620/card_1007620.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1007660/card_1007660.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1007700/card_1007700.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1007740/card_1007740.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1007780/card_1007780.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1007860/card_1007860.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1007900/card_1007900.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1007940/card_1007940.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1007980/card_1007980.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1008020/card_1008020.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1008100/card_1008100.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1008140/card_1008140.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1008180/card_1008180.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1008260/card_1008260.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1008340/card_1008340.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1008380/card_1008380.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1008420/card_1008420.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1008500/card_1008500.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1008540/card_1008540.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1008580/card_1008580.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1008620/card_1008620.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1008660/card_1008660.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1008700/card_1008700.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1008740/card_1008740.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1008780/card_1008780.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1008820/card_1008820.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1008860/card_1008860.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1008900/card_1008900.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1008940/card_1008940.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1008980/card_1008980.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1009020/card_1009020.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1009060/card_1009060.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1009100/card_1009100.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1009140/card_1009140.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1009220/card_1009220.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1009260/card_1009260.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1009300/card_1009300.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1009340/card_1009340.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1009420/card_1009420.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1009500/card_1009500.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1009540/card_1009540.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1009580/card_1009580.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1009620/card_1009620.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1009660/card_1009660.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1009700/card_1009700.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1009740/card_1009740.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1009780/card_1009780.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1009820/card_1009820.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1009860/card_1009860.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1009900/card_1009900.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1009940/card_1009940.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1009980/card_1009980.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1010020/card_1010020.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1010060/card_1010060.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1010100/card_1010100.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1010140/card_1010140.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1010180/card_1010180.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1010220/card_1010220.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1010260/card_1010260.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1010300/card_1010300.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1010420/card_1010420.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1010460/card_1010460.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1010500/card_1010500.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1010540/card_1010540.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1010580/card_1010580.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1010660/card_1010660.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1010700/card_1010700.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1010740/card_1010740.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1010780/card_1010780.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1010820/card_1010820.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1010860/card_1010860.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1010940/card_1010940.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1010980/card_1010980.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1011020/card_1011020.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1011060/card_1011060.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1011100/card_1011100.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1011180/card_1011180.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1011220/card_1011220.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1011260/card_1011260.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1011300/card_1011300.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1011340/card_1011340.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1011380/card_1011380.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1011420/card_1011420.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1011460/card_1011460.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1011500/card_1011500.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1011580/card_1011580.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1011620/card_1011620.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1011660/card_1011660.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1011700/card_1011700.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1011740/card_1011740.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1011780/card_1011780.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1011820/card_1011820.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1011860/card_1011860.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1011900/card_1011900.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1011940/card_1011940.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1011980/card_1011980.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1012020/card_1012020.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1012060/card_1012060.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1012100/card_1012100.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1012140/card_1012140.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1012180/card_1012180.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1012220/card_1012220.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1012300/card_1012300.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1012340/card_1012340.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1012380/card_1012380.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1012420/card_1012420.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1012460/card_1012460.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1012500/card_1012500.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1012540/card_1012540.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1012580/card_1012580.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1012620/card_1012620.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1012700/card_1012700.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1012740/card_1012740.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1012780/card_1012780.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1012860/card_1012860.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1012940/card_1012940.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1012980/card_1012980.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1013020/card_1013020.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1013060/card_1013060.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1013180/card_1013180.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1013220/card_1013220.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1013260/card_1013260.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1013300/card_1013300.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1013340/card_1013340.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1013380/card_1013380.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1013420/card_1013420.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1013540/card_1013540.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1013660/card_1013660.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1013700/card_1013700.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1013740/card_1013740.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1013820/card_1013820.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1013860/card_1013860.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1013900/card_1013900.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1013940/card_1013940.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1014060/card_1014060.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1014100/card_1014100.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1014140/card_1014140.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1014180/card_1014180.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1014260/card_1014260.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1014300/card_1014300.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1014340/card_1014340.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1014380/card_1014380.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1014460/card_1014460.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1014660/card_1014660.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1014700/card_1014700.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1014740/card_1014740.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1014820/card_1014820.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1014900/card_1014900.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1014980/card_1014980.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1015020/card_1015020.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1015100/card_1015100.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1015140/card_1015140.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1015220/card_1015220.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1015260/card_1015260.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1015300/card_1015300.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1015420/card_1015420.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1015460/card_1015460.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1015500/card_1015500.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1015540/card_1015540.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1015580/card_1015580.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1015620/card_1015620.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1015660/card_1015660.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1015700/card_1015700.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1015740/card_1015740.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1015780/card_1015780.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1015820/card_1015820.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1015900/card_1015900.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1016020/card_1016020.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1016060/card_1016060.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1016100/card_1016100.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1016140/card_1016140.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1016260/card_1016260.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1016300/card_1016300.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1016380/card_1016380.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1016460/card_1016460.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1016500/card_1016500.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1016580/card_1016580.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1016620/card_1016620.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1016740/card_1016740.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1016780/card_1016780.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1016820/card_1016820.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1016860/card_1016860.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1016900/card_1016900.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1016980/card_1016980.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1017020/card_1017020.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1017060/card_1017060.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1017180/card_1017180.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1017220/card_1017220.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1017260/card_1017260.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1017300/card_1017300.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1017340/card_1017340.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1017420/card_1017420.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1017460/card_1017460.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1017540/card_1017540.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1017580/card_1017580.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1017620/card_1017620.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1017660/card_1017660.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1017700/card_1017700.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1017740/card_1017740.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1017820/card_1017820.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1017860/card_1017860.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1017940/card_1017940.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1018020/card_1018020.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1018060/card_1018060.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1018100/card_1018100.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1018140/card_1018140.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1018180/card_1018180.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1018220/card_1018220.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1018260/card_1018260.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1018300/card_1018300.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1018340/card_1018340.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1018380/card_1018380.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1018460/card_1018460.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1018500/card_1018500.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1018540/card_1018540.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1018580/card_1018580.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1018660/card_1018660.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1018700/card_1018700.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1018740/card_1018740.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1018860/card_1018860.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1018900/card_1018900.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1018940/card_1018940.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1018980/card_1018980.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1019060/card_1019060.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1019140/card_1019140.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1019220/card_1019220.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1019260/card_1019260.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1019300/card_1019300.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1019340/card_1019340.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1019380/card_1019380.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1019460/card_1019460.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1019580/card_1019580.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1019620/card_1019620.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1019660/card_1019660.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1019740/card_1019740.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1019860/card_1019860.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1019900/card_1019900.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1019980/card_1019980.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1020020/card_1020020.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1020060/card_1020060.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1020180/card_1020180.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1020260/card_1020260.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1020300/card_1020300.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1020500/card_1020500.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1020540/card_1020540.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1020620/card_1020620.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1020660/card_1020660.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1020740/card_1020740.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1020820/card_1020820.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1020860/card_1020860.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1020900/card_1020900.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1020940/card_1020940.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1020980/card_1020980.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1021020/card_1021020.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1021100/card_1021100.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1021340/card_1021340.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1021380/card_1021380.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1021420/card_1021420.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1021460/card_1021460.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1021500/card_1021500.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1021540/card_1021540.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1021660/card_1021660.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1021700/card_1021700.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1021780/card_1021780.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1021860/card_1021860.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1021900/card_1021900.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1021940/card_1021940.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1021980/card_1021980.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1022020/card_1022020.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1022060/card_1022060.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1022100/card_1022100.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1022180/card_1022180.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1022220/card_1022220.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1022260/card_1022260.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1022300/card_1022300.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1022460/card_1022460.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1022580/card_1022580.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1022620/card_1022620.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1022660/card_1022660.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1022700/card_1022700.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1022740/card_1022740.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1022820/card_1022820.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1022860/card_1022860.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1022980/card_1022980.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1023020/card_1023020.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1023060/card_1023060.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1023100/card_1023100.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1023180/card_1023180.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1023260/card_1023260.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1023300/card_1023300.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1023380/card_1023380.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1023460/card_1023460.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1023500/card_1023500.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1023580/card_1023580.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1023660/card_1023660.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1023700/card_1023700.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1023740/card_1023740.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1023940/card_1023940.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1023980/card_1023980.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1024020/card_1024020.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1024060/card_1024060.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1024100/card_1024100.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1024220/card_1024220.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1024340/card_1024340.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1024380/card_1024380.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1024500/card_1024500.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1024540/card_1024540.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1024740/card_1024740.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1024780/card_1024780.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1024820/card_1024820.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1024940/card_1024940.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1024980/card_1024980.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1025020/card_1025020.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1025060/card_1025060.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1025100/card_1025100.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1025140/card_1025140.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1025180/card_1025180.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1025220/card_1025220.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1025300/card_1025300.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1025340/card_1025340.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1025460/card_1025460.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1025500/card_1025500.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1025540/card_1025540.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1025580/card_1025580.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1025620/card_1025620.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1025660/card_1025660.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1025820/card_1025820.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1025860/card_1025860.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1025900/card_1025900.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1026020/card_1026020.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1026060/card_1026060.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1026140/card_1026140.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1026180/card_1026180.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1026220/card_1026220.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1026340/card_1026340.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1026380/card_1026380.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1026420/card_1026420.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1026500/card_1026500.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1026580/card_1026580.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1026620/card_1026620.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1026740/card_1026740.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1026780/card_1026780.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1026860/card_1026860.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1026940/card_1026940.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1026980/card_1026980.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1027020/card_1027020.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1027060/card_1027060.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1027100/card_1027100.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1027180/card_1027180.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1027380/card_1027380.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1027420/card_1027420.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1027500/card_1027500.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1027540/card_1027540.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1027620/card_1027620.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1027700/card_1027700.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1027740/card_1027740.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1027780/card_1027780.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1027900/card_1027900.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1027940/card_1027940.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1028100/card_1028100.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1028220/card_1028220.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1028300/card_1028300.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1028420/card_1028420.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1028460/card_1028460.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1028540/card_1028540.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1028580/card_1028580.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1028620/card_1028620.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1028700/card_1028700.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1028780/card_1028780.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1028820/card_1028820.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1028940/card_1028940.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1028980/card_1028980.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1029020/card_1029020.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1029140/card_1029140.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1029180/card_1029180.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1029260/card_1029260.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1029340/card_1029340.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1029380/card_1029380.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1029420/card_1029420.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1029460/card_1029460.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1029500/card_1029500.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1029580/card_1029580.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1029620/card_1029620.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1029660/card_1029660.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1029740/card_1029740.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1029820/card_1029820.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1029900/card_1029900.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1029940/card_1029940.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1029980/card_1029980.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1030060/card_1030060.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1030100/card_1030100.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1030140/card_1030140.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1030180/card_1030180.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1030220/card_1030220.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1030260/card_1030260.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1030300/card_1030300.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1030380/card_1030380.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1030420/card_1030420.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1030460/card_1030460.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1030660/card_1030660.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1030780/card_1030780.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1030820/card_1030820.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1030940/card_1030940.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1031020/card_1031020.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1031060/card_1031060.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1031100/card_1031100.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1031180/card_1031180.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1031260/card_1031260.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1031300/card_1031300.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1031340/card_1031340.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1031380/card_1031380.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1031420/card_1031420.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1031460/card_1031460.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1031540/card_1031540.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1031580/card_1031580.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1031620/card_1031620.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1031660/card_1031660.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1031700/card_1031700.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1031740/card_1031740.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1031780/card_1031780.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1031900/card_1031900.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1032020/card_1032020.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1032060/card_1032060.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1032100/card_1032100.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1032180/card_1032180.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1032260/card_1032260.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1032300/card_1032300.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1032380/card_1032380.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1032420/card_1032420.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1032540/card_1032540.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1032620/card_1032620.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1032660/card_1032660.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1032740/card_1032740.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1032820/card_1032820.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1032860/card_1032860.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1032900/card_1032900.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1032980/card_1032980.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1033020/card_1033020.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1033540/card_1033540.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1033580/card_1033580.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1033620/card_1033620.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1033660/card_1033660.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1033700/card_1033700.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1033740/card_1033740.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1033820/card_1033820.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1033860/card_1033860.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_BGb.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_BGbl.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_BGbl2.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_BGc.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_BGd.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_BGe.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_BGw.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_characterTurlesBG.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efAuraBackA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efAuraBackA2.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efAuraBackB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efAuraBackB2.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efAuraBackC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efAuraBackC2.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efAuraBackD.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efAuraBackD2.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efAuraBackE.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efAuraBackE2.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efAuraBackF.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efAuraBackF2.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efAuraBackG.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efAuraBackG2.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efAuraBackH.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efAuraBackH2.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efAuraBackI.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efAuraBackI2.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efAuraBackJ.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efAuraBackJ2.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efAuraBackK.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efAuraBackL.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efAuraBackM.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efAuraBackN.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efAuraBackO.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efAuraBackP.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efAuraBackQ.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efAuraBackR.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efAuraBackS.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efAuraBackT.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efAuraEdgeBackTurlesK.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efAuraEdgeBackTurlesL.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efAuraEdgeBackTurlesM.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efAuraEdgeBackTurlesN.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efAuraEdgeBackTurlesO.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efAuraEdgeBackTurlesP.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efAuraEdgeBackTurlesQ.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efAuraEdgeBackTurlesR.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efAuraEdgeBackTurlesS.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efAuraEdgeBackTurlesT.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efAuraEdgeTurlesA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efCharacterColorTurlesA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efCharacterColorTurlesB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efCharacterColorTurlesC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efCharacterColorTurlesEatA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efCharacterLightBturles.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efClineBackA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efClineBackB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efClineBackC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efClineFrontA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efClineFrontB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efClineFrontC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efClinePlusBackA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efClinePlusBackB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efClinePlusBackC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efClinePlusFrontA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efClinePlusFrontB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efClinePlusFrontC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efConcentrationA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efConcentrationB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efConcentrationC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efDarknA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efFruitA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efFruitB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efFruitC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efGrain01.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efGrain02.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efGrain03.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efGrain04.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efGrain05.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efGrain06.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efGrain07.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efGrain08.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efGrain09.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efGrain10.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efGrain11.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efGrain12.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efGrain13.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efGrain14.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efGrain15.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efGrain16.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efGrain17.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efGrain18.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efGrain19.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efGrain20.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efGrainA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efGrainB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efGrainC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efGrainD.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efGrainE.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efLineTurlesA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efLineTurlesB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efLineTurlesC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efSmokeBackA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efSmokeBackB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efSmokeBackC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efSmokeBackD.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efSmokeBackE.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efSmokeBackF.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efSmokeBackG.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efSmokeBackH.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efSmokeBackI.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efSmokeBackJ.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efSmokeBackK.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efSmokeBackL.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efSmokeBackM.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efSmokeBackN.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efSmokeBackO.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efSmokeFrontA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efSmokeFrontB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efSmokeFrontC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efSmokeFrontD.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efSmokeFrontE.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efSmokeFrontF.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efSmokeFrontG.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efSmokeFrontH.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efSmokeFrontI.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efSmokeFrontJ.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efSmokeFrontK.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efSmokeFrontL.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efSmokeFrontM.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efSmokeFrontN.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efSmokeFrontO.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efUpdraftBodyA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efUpdraftBodyB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efUpdraftBodyC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efUpdraftBodyD.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efUpdraftBodyE.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efUpdraftBodyF.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efUpdraftBodyG.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efUpdraftBodyH.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efUpdraftBodyI.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efUpdraftBodyJ.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efUpdraftBodyK.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efUpdraftBodyL.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efUpdraftBodyM.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efUpdraftBodyN.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efUpdraftBodyO.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efUpdraftBodyP.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efUpdraftBodyQ.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efUpdraftBodyR.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efUpdraftBodyS.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efUpdraftBodyT.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efUpdraftScreenA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efUpdraftScreenB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efUpdraftScreenC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efUpdraftScreenD.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efUpdraftScreenE.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efUpdraftScreenF.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efUpdraftScreenG.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efUpdraftScreenH.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efUpdraftScreenI.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efUpdraftScreenJ.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efUpdraftScreenK.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efUpdraftScreenL.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efUpdraftScreenM.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efUpdraftScreenN.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efUpdraftScreenO.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efUpdraftScreenP.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efUpdraftScreenQ.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efUpdraftScreenR.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efUpdraftScreenS.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efUpdraftScreenT.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efUpdraftScreenU.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efUpdraftScreenV.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efUpdraftScreenW.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efUpdraftScreenX.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efUpdraftScreenY.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_efUpdraftScreenZ.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_turles.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1033940/Images_turlesEat.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034020/card_1034020.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1034060/card_1034060.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1034100/card_1034100.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1034140/card_1034140.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1034180/card_1034180.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1034220/card_1034220.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1034300/card_1034300.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_20201802.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_20201803.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_20201804.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_20201805.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_20201806.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_20201807.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_20201808.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_20201809.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_20201810.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_20201811.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_20201812.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_20201813.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_20201814.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_859501.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_859502.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_859503.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_859504.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_859505.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_859506.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_859507.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_859508.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_859509.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_859510.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_BGa.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_BGa100.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_BGa25.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_BGa40.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_BGa75.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_BGa80.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_BGb.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_BGb100.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_BGb25.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_BGb40.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_BGb75.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_BGb80.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_BGbl.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_BGc.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_BGc2.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_BGd.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_BGd80.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_BGd90.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_BGw.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_characterGohanA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efAirTopA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efAirTopB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efAirTopC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efAirTopD.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efAirTopE.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efAirTopF.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efAirTopG.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efAirTopH.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efAirTopI.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efAirTopJ.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efAirTopK.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efAirTopL.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efAirTopM.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efAirTopN.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efAirTopO.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efAirUnderA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efAirUnderB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efAirUnderC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efAirUnderD.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efAirUnderE.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efAirUnderF.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efAirUnderG.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efAirUnderH.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efAirUnderI.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efAirUnderJ.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efAirUnderK.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efAirUnderL.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efAirUnderM.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efAirUnderN.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efAuraEdgeA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efBacklightBGA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efBackLightCharaA01.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efBackLightCharaA02.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efBackLightCharaA03.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efBackLightCharaA04.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efBackLightCharaA05.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efBackLightCharaA06.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efCharacterColorB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efCharacterColorB100.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efCharacterColorB50.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efCharacterColorB75.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efCharacterColorCDE01.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efCharacterColorCDE02.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efCharacterColorCDE03.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efCharacterColorCDE04.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efCharacterColorCDE05.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efCharacterLightA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efCharacterLightCShadeA00.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efCharacterLightCShadeA01.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efCharacterLightCShadeA02.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efCharacterLightCShadeA03.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efCharacterLightCShadeA04.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efCharacterLightCShadeA05.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efCharacterLightCShadeA06.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efCharacterLightCShadeA07.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efCharacterLightCShadeA08.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efCharacterLightCShadeA09.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efCharacterLightCShadeA10.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efCharacterLightCShadeA11.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efCharacterLightCShadeAHard01.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efCharacterLightCShadeAHard02.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efCharacterLightCShadeAHard03.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efCharacterLightCShadeAHard04.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efCharacterLightCShadeAHard07.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efCharacterLightCShadeAHard08.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efCharacterLightCShadeAHard09.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efCharacterLightCShadeAHard10.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efCharacterLightCShadeAHard11.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efCharacterLightCShadeAHard12.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efChargeLightUnderA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efEye.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efFlashTh013100.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efFlashTh013101.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efFlashTh013102.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efFlashTh013103.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efFlashTh013104.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efFlashTh013105.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efFlashTh013106.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efFlashTh013107.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efFlashTh013108.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efFlashTh013109.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efFlashTh013110.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efFlashTh013111.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efFlashTh013112.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efFlashTh013113.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efFlashTh013114.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efFlashTh013115.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efFlashTh013116.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efFlashTh013117.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efFlashTh013118.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efFlashTh013119.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efFlashTh013120.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efFlashTh013121.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efFlashTh013122.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efFlashTh013123.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efFlashTh013124.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efFlashTh013125.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efFlashTh013126.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efFlashTh013127.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efFlashTh013128.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efFlashTh013129.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efFlashTh013130.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efFlashTh013131.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efFlashTh013132.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efFlashTh013133.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efFlashTh013134.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efFlashTh013135.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efFlashTh013136.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efFlashTh013137.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efFlashTh013138.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efFlashTh013139.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efFlashTh013140.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efFlashTh013141.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efFlashTh013142.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efFlashTh013143.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efFlashTh013144.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efFlashTh013145.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efFlashTh013146.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efFlashTh013147.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efGrainSmokeTop01.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efGrainSmokeTop02.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efGrainSmokeTop03.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efGrainSmokeTop04.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efGrainSmokeTop05.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efGrainSmokeTop06.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efGrainSmokeTop07.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efGrainSmokeTop08.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efGrainSmokeTop09.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efGrainSmokeTop10.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efGrainSmokeTop11.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efGrainSmokeTop12.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efGrainSmokeUnder001.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efGrainSmokeUnder002.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efGrainSmokeUnder003.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efGrainSmokeUnder004.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efGrainSmokeUnder005.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efGrainSmokeUnder006.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efGrainSmokeUnder007.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efGrainSmokeUnder008.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efGrainSmokeUnder009.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efGrainSmokeUnder010.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efGrainSmokeUnder011.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efGrainSmokeUnder012.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efGrainSmokeUnder013.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efGrainSmokeUnder014.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efGrainSmokeUnder015.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efGrainSmokeUnder016.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efLightArmB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efLightBGA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efLightGroundA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efLightMakanChargeLB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efMacanChargeLM01.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efMacanChargeLM03.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efMacanChargeLM04.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efMacanChargeLM06.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efMacanChargeLM07.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efMacanChargeLM09.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efMacanChargeLM10.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efMacanChargeLM12.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efMakanChargeLA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efMakanChargeLB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efMakanChargeLC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efMakanChargeLD.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efMakanChargeLE.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efMakanChargeLF.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efMakanParticleS01.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efMakanParticleS02.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efMakanParticleS03.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efMakanParticleS04.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efMakanParticleS05.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efMakanParticleS06.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efMakanParticleS07.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efMakanParticleS08.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efMakanParticleS09.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efMakanParticleS10.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efMakanParticleS11.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efMakanParticleS12.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efMakanParticleS13.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efMakanParticleS14.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efMakanParticleS15.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efMakanStartA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efMakanStartB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efMakanStartC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efMakanStartD.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efMakanStartE.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efMakanStartF.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efMakanStartG.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efMakanStartH.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efMakanStartI.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShadowA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShadowEdge01.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShadowEdge02.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShadowEdge03.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShadowEdge04.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShadowEdge05.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShadowEdge06.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShadowEdge07.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShadowEdge08.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShadowEdge09.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShadowEdge10.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShadowLineA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShineLA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShineLB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShineLC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShineLD.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShineLE.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShineLF.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShock01.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShock02.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShock03.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShock05.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShock06.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShock07.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShock08.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShock10.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShock11.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShock12.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShock13.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShock14.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShock15.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShock16.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShock17.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShock19.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShock20.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShock21.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShock22.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShock23.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShock24.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShock25.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShock26.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShock27.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShock28.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShock29.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShock30.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShock31.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShock32.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShock33.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShock34.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShock35.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShock36.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShock39.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efShock40.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSmokeWipeAA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSmokeWipeAB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSmokeWipeAC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSmokeWipeAD.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSmokeWipeAE.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSmokeWipeAF.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSmokeWipeAG.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSmokeWipeAH.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSmokeWipeAI.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSmokeWipeAJ.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSmokeWipeAK.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSmokeWipeAL.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSmokeWipeBA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSmokeWipeBB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSmokeWipeBC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSmokeWipeBD.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSmokeWipeBE.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSmokeWipeBF.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSmokeWipeBG.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSmokeWipeBH.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSmokeWipeBI.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSmokeWipeBJ.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSmokeWipeBK.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSmokeWipeBL.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSmokeWipeBM.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSmokeWipeUnder01.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSmokeWipeUnder02.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSmokeWipeUnder03.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSmokeWipeUnder04.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSmokeWipeUnder05.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSmokeWipeUnder06.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSmokeWipeUnder07.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSparkHandA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSparkHandB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSparkHandC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSparkHandD.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSparkHandE.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSparkHandF.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSparkHandG.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSparkHandH.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSparkHandI.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSparkHandJ.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSparkHandK.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSparkHandL.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSparkHandM.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSparkHandN.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSparkHandO.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSparkHandP.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSparkHandQ.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSparkHandR.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSparkMakanA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSparkMakanB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSparkMakanC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSparkMakanD.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSparkMakanE.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSparkMakanF.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSparkMakanG.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSparkMakanH.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSparkMakanI.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSparkMakanJ.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSparkMakanK.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSparkMakanL.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSparkMakanM.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSparkMakanN.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSparkMakanO.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSparkMakanP.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSparkMakanQ.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSparkMakanR.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSparkMakanS.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSparkMakanT.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efSparkMakanU.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efThunderboltTop02.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efThunderboltTop03.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efThunderboltTop04.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efThunderboltTop05.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efThunderboltTop06.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efThunderboltTop07.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efThunderboltTop08.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efThunderboltTop09.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efThunderboltTop10.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efThunderboltTop11.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efThunderboltTop12.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efThunderboltTop15.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efThunderboltTop16.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efThunderboltTop17.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efThunderboltTop18.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efThunderboltTop21.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efThunderboltTop22.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efThunderboltTop23.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efThunderboltUnder01.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efThunderboltUnder010.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efThunderboltUnder02.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efThunderboltUnder03.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efThunderboltUnder04.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efThunderboltUnder05.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efThunderboltUnder06.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efThunderboltUnder07.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efThunderboltUnder08.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efThunderboltUnder09.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efThunderboltUnder11.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efThunderboltUnder12.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efThunderboltUnder13.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efThunderboltUnder14.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efThunderboltUnder15.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efThunderboltUnder16.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efThunderboltUnder17.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efThunderboltUnder18.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efThunderboltUnder19.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efThunderboltUnder20.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efThunderboltUnder21.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efThunderboltUnder22.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efThunderboltUnder23.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efUpLightBGA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efUpLightSmokeA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efUpLightSmokeB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efWipeA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efWipeB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_efWipeC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_ef_character_colorCD00.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_ef_character_colorCD01.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_ef_character_colorCD02.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_ef_character_colorCD03.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_ef_character_colorCD04.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_makanFull01.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_makanFull02.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_makanFull03.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_makanFull04.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_makanFull05.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_makanFull06.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_makanFull07.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_makanFull08.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_makanFull09.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_makanFull10.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_makanFull11.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_makanFull12.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_makanFull13.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_makanFull14.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_makanFull15.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_makanFull16.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_makanFull17.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_makanFull18.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_makanFull19.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_makanFull20.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_makanFull21.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_makanFull22.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_makanFull23.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_makanFull24.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_mPMLight01.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_mPMLight02.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_mPMLight03.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_mPMLight04.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_mPMLight05.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_mPMLight06.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_mPMLight07.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_mPMLight08.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_mPMLight09.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_mPMLight10.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_smokeGrainunder1k01.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_smokeGrainunder1k02.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_smokeGrainunder1k03.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_smokeGrainunder1k04.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_smokeGrainunder1k05.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_smokeGrainunder1k06.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_smokeGrainunder1k07.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_smokeGrainunder1k08.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_smokeGrainunder1k09.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_smokeGrainunder1k10.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_smokeGrainunder1k11.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_smokeGrainunder1k12.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_smokeGrainUnder2k01.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_smokeGrainUnder2k02.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_smokeGrainUnder2k03.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_smokeGrainUnder2k04.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_smokeGrainUnder2k05.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_smokeGrainUnder2k06.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_smokeGrainUnder2k07.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_smokeGrainUnder2k08.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_smokeGrainUnder2k09.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_smokeGrainUnder2k10.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_smokeGrainUnder2k11.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_smokeGrainUnder2k12.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_smokeGrainUnder2k13.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_smokeGrainUnder2k14.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_smokeGrainUnder2k15.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_smokeGrainUnder2k16.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_smokeGrainUnder2k17.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_smokeGrainUnder2k18.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_smokeGrainUnder2k19.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_smokeGrainUnder2k20.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_smokeGrainUnder2k21.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_smokeGrainUnder2k22.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_smokeGrainUnder2k23.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034340/images_smokeGrainUnder2k24.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_BGa.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_BGb.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_BGbBeamflash.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_BGc.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_BGd.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_BGpurple.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_BGw.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_chColorD.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efAuraedgeInside.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamD.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamdustA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamDustA1.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamDustA2.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamDustA3.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamDustA4.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamDustA5.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamdustAA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamdustB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamDustB1.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamDustB2.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamdustBB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamdustC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamDustC1.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamDustC2.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamDustC3.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamDustC4.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamDustC5.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamdustCC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamdustD.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamDustD1.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamDustD2.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamDustD3.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamDustD4.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamDustD5.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamdustDD.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamdustE.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamdustF.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamdustG.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamdustH.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamdustI.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamdustJ.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamdustK.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamdustL.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamdustM.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamdustN.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamdustO.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamdustP.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamdustQ.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamdustR.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamdustS.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamdustT.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamdustU.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamdustV.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamdustW.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamdustX.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamdustY.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamdustZ.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamE.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionLarge201.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionLarge202.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionLarge203.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionLarge204.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionLarge205.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionLarge206.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionLarge207.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionLarge208.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionLarge209.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionLarge210.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionLarge211.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionLarge212.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionLarge213.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionLarge214.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionLarge215.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionLarge216.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionLarge217.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionLarge218.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionLarge219.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionLarge220.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionLarge221.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionLargeA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionLargeB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionLargeBack04.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionLargeBack05.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionLargeBack06.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionLargeBack07.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionLargeBack08.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionLargeBack09.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionLargeBack10.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionLargeBack11.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionLargeBack12.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionLargeBack13.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionLargeBack14.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionLargeBack15.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionLargeBack16.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionLargeBack17.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionLargeBackA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionLargeBackB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionLargeC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionLargeD.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionLargeE.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionLargeF.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionLargeG.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionLargeH.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionLargeI.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionSmall02.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionSmall03.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionSmall04.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionSmall05.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionSmall06.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionSmall07.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionSmall08.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionSmall09.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionSmall10.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionSmall11.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionSmall12.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionSmall13.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionSmall200.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionSmall201.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionSmall202.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionSmall203.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionSmall204.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionSmall205.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionSmall206.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionSmall207.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionSmall208.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionSmall209.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionSmall210.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionSmall211.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionSmall212.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionSmall213.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionSmallA01.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionSmallA02.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionSmallA03.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionSmallA04.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionSmallA05.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionSmallA06.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionSmallB01.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionSmallB02.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionSmallB03.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionSmallB04.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionSmallB05.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamexplosionSmallB07.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamF.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamG.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamImpactA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamImpactB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamImpactC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamImpactD.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamImpactE.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamlineLargeA01.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamlineLargeA02.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamlineLargeA03.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamlineLargeA04.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamlineLargeB01.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamlineLargeB02.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamlineLargeB03.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamlineLargeB04.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamlineLargeB05.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamlineLargeB06.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamlineLargeBackA01.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamlineLargeBackA02.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamlineLargeBackA03.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamlineLargeBackA04.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamlineLargeBackA05.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamlineLargeBackA06.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamlineLargeBackA07.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamperticleA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamperticleB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamperticleC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamperticleD.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamperticleE.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamperticleF.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamperticleG.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamperticleH.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamperticleI.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamperticleJ.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamperticleK.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamperticleL.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamperticleM.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamperticleN.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamperticleO.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamperticleP.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamperticleQ.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamperticleR.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamperticleS.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamperticleT.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamtameA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamtameB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamtameC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamtameD.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamtameE.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamtameF.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamtransitionA01.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamtransitionA02.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamtransitionA03.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamtransitionA04.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamtransitionA05.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamtransitionB01.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamtransitionB02.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamtransitionB03.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamtransitionB04.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBeamtransitionB05.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBlacklineA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBlacklineB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBlacklineC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBlacklineD.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBlacklineE.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efBlacklineF.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efCellmaxBlur.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efCellmaxColorA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efCellmaxColorB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efCellmaxColorC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efChBeamlight.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efChBeamshadow.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efChBlurA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efChBlurB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efChBlurC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efChPatternA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efChPatternB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efChShadow.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efDustA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efDustB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efDustC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efDustD.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efDustE.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efDustF.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efDustG.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efDustH.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efDustI.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efDustJ.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efDustK.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efDustL.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efDustM.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efDustN.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efDustO.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efDustP.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efDustQ.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efDustR.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efDustS.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efDustT.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efExplosionA01.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efExplosionA02.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efExplosionA03.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efExplosionA04.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efExplosionA05.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efExplosionA06.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efExplosionA07.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efExplosionA08.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efExplosionB01.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efExplosionB02.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efExplosionB03.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efExplosionB04.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efExplosionC01.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efExplosionC02.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efExplosionC03.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efExplosionD01.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efExplosionD02.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efExplosionD03.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efExplosionD04.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efExplosionD05.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efExplosionD06.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efExplosionD07.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efExplosionD08.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efExplosiondustA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efExplosiondustB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efExplosiondustC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efExplosiondustD.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efExplosiondustE.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efExplosionFlash.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efFadeoutA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efFadeoutB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efFadeoutC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efFadeoutD.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efFlashA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efFlashB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efFlashC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efGodrayA01.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efGodrayA02.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efGodrayA03.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efGodrayA04.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efGodrayA05.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efGodraySmallA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efGodraySmallB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efGodraySmallC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efGodraySmallD.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efGodraySmallE.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efHighcontrastA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efHighcontrastB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efodrayB01.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efodrayB02.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efodrayB03.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efRoarA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efRoarB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efRoarC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efRoarD.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efRoarE.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efRoarF.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efRoarG.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efRoarH.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efRoarI.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeBackA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeBackAA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeBackAB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeBackAC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeBackAD.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeBackB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeBackC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeBackD.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeBackE.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeBackF.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeBackG.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeBackH.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeBackI.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeBackJ.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeBackK.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeBackL.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeBackM.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeBackN.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeBackO.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeBackP.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeBackQ.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeBackR.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeBackS.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeBackT.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeBackU.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeBackV.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeBackW.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeBackX.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeBackY.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeBackZ.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeFrontA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeFrontAA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeFrontAB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeFrontAC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeFrontAD.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeFrontB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeFrontC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeFrontD.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeFrontE.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeFrontF.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeFrontG.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeFrontH.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeFrontI.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeFrontJ.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeFrontK.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeFrontL.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeFrontM.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeFrontN.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeFrontO.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeFrontP.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeFrontQ.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeFrontR.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeFrontS.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeFrontT.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeFrontU.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeFrontV.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeFrontW.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeFrontX.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeFrontY.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efSmokeFrontZ.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efWindA01.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efWindB01.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efWindC01.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efWindD01.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efWindE01.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034380/Images_efWindF01.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034420/card_1034420.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1034460/card_1034460.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1034540/card_1034540.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1034620/card_1034620.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1034660/card_1034660.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1034700/card_1034700.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_bgA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_bgB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_BGeffectVegetaA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_BGeffectVegetaB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_BGeffectVegetaC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_BGeffectVegetaD.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_BGeffectVegetaE.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_characterGogeta.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_characterVegeta.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efAura2A.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efAura2B.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efAura2C.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efAuraA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efAuraB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efAuraBackA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efAuraBackB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efAuraBackC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efAuraC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efAuraEdge2A.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efAuraEdge2B.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efAuraEdge2C.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efAuraEdgeA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efAuraEdgeB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efAuraEdgeC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efAuraFrontEdge2A.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efAuraFrontEdge2B.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efAuraFrontEdge2C.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efAuraFrontEdgeA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efAuraFrontEdgeB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efAuraFrontEdgeC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efAuraLineA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efAuraLineB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efAuraLineC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efAuraLineD.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efAuraLineE.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efAuraLineF.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efAuraLineG.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efAuraLineH.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efAuraLineI.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efAuraLineJ.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efAuraLineK.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efAuraLineL.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efAuraLineLight.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efAuraLineLight02.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efBackFlashGogeta.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efBallStartLVegetaA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efBallStartLVegetaB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efBallStartLVegetaC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efBallVegetaA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efBallVegetaB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efBallVegetaC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efCenterLight.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efEnergyBallVegeta.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efEnergyLast2VegetaA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efEnergyLast2VegetaB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efEnergyLast2VegetaC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efEnergyLastVegetaA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efEnergyLastVegetaB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efEnergyLastVegetaC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efEnergyLastVegetaD.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efEnergyLight2vegeta.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efEnergyLightVegeta.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efGokuColor.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efHandLightVegeta.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efHandOutsideVegeta.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efHighcontrastA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efHighcontrastA2.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efHighcontrastB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efHighcontrastB2.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efKamehamehaA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efKamehamehaB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efKamehamehaC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efKamehamehaD.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efKiraA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efKiraB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efKiraC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efLightInsideVegetaA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efLightInsideVegetaB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efLightVegetaA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efLightVegetaB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efLightVegetaC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efLineVegetaA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efLineVegetaB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efLineVegetaC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efRingLight84vegeta.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efWindA.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efWindB.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_efWindC.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034740/Images_wout.png": [
+  0,
+  0
+ ],
+ "character/card_bg/1034860/card_1034860.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/1034940/card_1034940.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/2000180/card_2000180.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/2000780/card_2000780.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/2000820/card_2000820.lwf": [
+  0,
+  0
+ ],
+ "character/card_bg/3000260/card_3000260.lwf": [
+  0,
+  0
+ ]
+}
